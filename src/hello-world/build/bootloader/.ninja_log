@@ -1,0 +1,187 @@
+# ninja log v6
+59	619	8009526881460361	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_lock.c.obj	70d5d0f196905f31
+96	1006	8009526881820348	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_format_text.c.obj	b26f8741c42b5aa6
+78	652	8009526881640347	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/util.c.obj	fce5d16ed05a80f
+88	757	8009526881740337	esp-idf/log/CMakeFiles/__idf_log.dir/src/util.c.obj	50fa173eac64d727
+51	773	8009526881370352	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_timestamp_common.c.obj	526dc9ee20fb021c
+43	832	8009526881290328	esp-idf/log/CMakeFiles/__idf_log.dir/src/noos/log_timestamp.c.obj	9e05856dd1c8970d
+128	949	8009526882140351	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_sys.c.obj	1d8bda8c80fff9db
+103	988	8009526881890343	esp-idf/log/CMakeFiles/__idf_log.dir/src/log_print.c.obj	c56ca9b524157874
+2065	3525	8009526901510371	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_time.c.obj	a10f7c4134ecfdf5
+1548	2506	8009526896340335	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/cpu_region_protect.c.obj	7429aafa07eaf500
+116	997	8009526882020376	esp-idf/log/CMakeFiles/__idf_log.dir/src/log.c.obj	fe45a4a3e4e3efd8
+68	1112	8009526881540342	esp-idf/log/CMakeFiles/__idf_log.dir/src/buffer/log_buffers.c.obj	6928ebdf76843d69
+653	1360	8009526887390345	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_crc.c.obj	efd0827fb801e4de
+13838	13980	8009527019240842	esp-idf/esp_hal_gpio/libesp_hal_gpio.a	6106264496f6409a
+988	1461	8009526890740361	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_longjmp.S.obj	7b164979bc29ca77
+955	1655	8009526890410365	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_gpio.c.obj	80da070169feb946
+7171	7801	8009526952565605	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/esp32/adc_periph.c.obj	43952de3381df0d4
+833	1548	8009526889190354	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_efuse.c.obj	7f54a94f066c56e6
+5327	7657	8009526934125599	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp_image_format.c.obj	ccd6f427c3addf2e
+622	1565	8009526887080359	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_print.c.obj	6cdf125bfaf32abc
+997	2064	8009526890840402	esp-idf/esp_common/CMakeFiles/__idf_esp_common.dir/src/esp_err_to_name.c.obj	bf7f792d4d864b68
+3536	4590	8009526916220342	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_init.c.obj	f68da1c7fd3165f3
+2507	3535	8009526905930356	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_fields.c.obj	a2a83707e964144a
+758	1724	8009526888440372	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_serial_output.c.obj	912713e4450630c4
+6206	7095	8009526943175601	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console_loader.c.obj	da6c1aeaa4ca1328
+10931	11655	8009526990170851	esp-idf/soc/CMakeFiles/__idf_soc.dir/dport_access_common.c.obj	39be846b35efa8e6
+4590	6118	8009526926765600	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/flash_qio_mode.c.obj	ee5ebeba932aa30
+774	1993	8009526888600364	esp-idf/esp_rom/CMakeFiles/__idf_esp_rom.dir/patches/esp_rom_spiflash.c.obj	561f54acf0c11479
+4655	5964	8009526927415600	esp-idf/esp_hw_support/libesp_hw_support.a	3eee41f06c3b2a3c
+1007	2107	8009526890930337	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/cpu.c.obj	d2db2da03d105142
+1565	3660	8009526896510363	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk.c.obj	755510b614b5973e
+12364	12507	8009527004500845	esp-idf/esp_hal_uart/libesp_hal_uart.a	ef2a9dcedccec470
+1461	2225	8009526895470357	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/esp_memory_utils.c.obj	31bff09e636f33e0
+1112	2376	8009526891980357	esp-idf/log/liblog.a	e92d446a05650353
+8218	9204	8009526963040864	esp-idf/esp_hal_timg/CMakeFiles/__idf_esp_hal_timg.dir/timer_hal.c.obj	25c03f5511beec0e
+3147	4065	8009526912330366	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj	ace79252a7657927
+2444	3146	8009526905310346	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_table.c.obj	db2068f26f09661f
+1360	2444	8009526894460341	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/esp_cpu_intr.c.obj	7e17a80d6d50c417
+3264	4601	8009526913500366	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj	bb489f925b125b10
+3326	4560	8009526914120349	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common.c.obj	65decea579ac8b07
+2108	3017	8009526901940372	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/chip_info.c.obj	6c649fac285116ca
+9326	10326	8009526974120860	esp-idf/esp_hal_pmu/CMakeFiles/__idf_esp_hal_pmu.dir/brownout_hal.c.obj	3fa2b1506d7576d6
+9204	10233	8009526972900849	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hal.c.obj	1107f58eb6fb7df0
+1724	3103	8009526898100348	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_init.c.obj	90055488c881d774
+1656	3263	8009526897420361	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_clk_init.c.obj	485cfa4e5ac932a8
+4160	5648	8009526922465599	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_encrypt.c.obj	2156e41bbd4cce6a
+2225	3317	8009526903120361	esp-idf/esp_system/CMakeFiles/__idf_esp_system.dir/esp_err.c.obj	da7a3aaa64620f99
+1994	3305	8009526900800339	esp-idf/esp_hw_support/CMakeFiles/__idf_esp_hw_support.dir/port/esp32/rtc_sleep.c.obj	2998b130ad186bf6
+2376	3800	8009526904620349	esp-idf/esp_rom/libesp_rom.a	e7593de44d2eb46e
+3018	4097	8009526911040370	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_utility.c.obj	1009b9737404dd10
+4467	5406	8009526925535605	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/secure_boot.c.obj	4f8ea766810f17d3
+3104	4160	8009526911900380	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj	48265d56ddccbd3a
+3305	4467	8009526913910320	esp-idf/efuse/CMakeFiles/__idf_efuse.dir/src/efuse_controller/keys/without_key_purposes/three_key_blocks/esp_efuse_api_key.c.obj	75cea689d8d4f600
+3660	4477	8009526917460345	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_mem.c.obj	17e92a836c8318
+4560	6710	8009526926465606	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash.c.obj	4088a7b6fbd3973
+4066	5327	8009526921515619	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random.c.obj	e39ed25c2e724677
+3800	4655	8009526918860369	esp-idf/esp_common/libesp_common.a	5c296d53dad7655f
+8691	9786	8009526967770883	esp-idf/spi_flash/CMakeFiles/__idf_spi_flash.dir/spi_flash_wrap.c.obj	d6914173b126f1f0
+3526	4975	8009526916120346	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_common_loader.c.obj	5e2f363ccc585f78
+4097	5080	8009526921825618	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_efuse.c.obj	1fb932df64d0f00c
+4477	5423	8009526925635614	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_random_esp32.c.obj	2560b4e1a2912b36
+5080	6205	8009526931665604	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/flash_partitions.c.obj	a3ab5382599000a9
+6660	7618	8009526947465622	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_panic.c.obj	a9be46c7917a6a59
+4601	6580	8009526926865618	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/bootloader_flash/src/bootloader_flash_config_esp32.c.obj	76f76009d8986a6b
+5423	7369	8009526935095605	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_init.c.obj	a065b78cf8f7ad0c
+5649	6646	8009526937345612	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_clock_loader.c.obj	a56de0d921912681
+5406	6660	8009526934925599	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_sha.c.obj	11be67e2bdfac01
+6581	7085	8009526946665616	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_soc.c.obj	1146fca27f7619c6
+5964	7116	8009526940505642	esp-idf/esp_system/libesp_system.a	c8f49980489c2a0d
+4975	7170	8009526930615598	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_utility.c.obj	a374356fa8199ece
+6710	7397	8009526947965621	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_lock.c.obj	de1050c54899cbfc
+6119	7180	8009526942045617	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/bootloader_console.c.obj	502526f59f5abea9
+7095	7871	8009526951805612	esp-idf/esp_hal_security/CMakeFiles/__idf_esp_hal_security.dir/mpu_hal.c.obj	519476879a51f631
+7086	7903	8009526951715600	esp-idf/esp_security/CMakeFiles/__idf_esp_security.dir/src/esp_crypto_periph_clk.c.obj	11c96c9f7cb778d4
+6646	8041	8009526947325633	esp-idf/bootloader_support/CMakeFiles/__idf_bootloader_support.dir/src/esp32/bootloader_esp32.c.obj	ae9feb988a896c41
+10893	11502	8009526989790860	esp-idf/soc/CMakeFiles/__idf_soc.dir/lldesc.c.obj	b71d373578a1324e
+7180	8072	8009526952665619	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_hal_common.c.obj	a86fe859d7dc7363
+7618	8105	8009526957035609	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/esp32/dac_periph.c.obj	f733b64974b94dd9
+7116	8198	8009526952025592	esp-idf/efuse/libefuse.a	ad45dec6547a20d
+7370	8217	8009526954555634	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_oneshot_hal.c.obj	85f6acb7d0f6fe25
+8073	8457	8009526961585584	esp-idf/esp_hal_wdt/CMakeFiles/__idf_esp_hal_wdt.dir/esp32/mwdt_periph.c.obj	fca93e0d95c1f4cd
+7801	8532	8009526958875671	esp-idf/esp_hal_i2s/CMakeFiles/__idf_esp_hal_i2s.dir/esp32/i2s_periph.c.obj	b8e748c572000c06
+7397	8608	8009526954835601	esp-idf/esp_hal_ana_conv/CMakeFiles/__idf_esp_hal_ana_conv.dir/adc_hal.c.obj	da5f50c9ba0af756
+8041	8676	8009526961275601	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/esp32/uart_periph.c.obj	373952ee068b0d35
+7903	8756	8009526959895625	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/uart_hal_iram.c.obj	5dea0dd187208cc9
+7657	8765	8009526957435611	esp-idf/esp_hal_i2s/CMakeFiles/__idf_esp_hal_i2s.dir/i2s_hal.c.obj	7a46719c28216356
+7871	8894	8009526959565613	esp-idf/esp_hal_uart/CMakeFiles/__idf_esp_hal_uart.dir/uart_hal.c.obj	661e658fc8cedb1d
+8457	9166	8009526965430893	esp-idf/esp_hal_timg/CMakeFiles/__idf_esp_hal_timg.dir/esp32/timer_periph.c.obj	2fda6145008af909
+8105	9238	8009526961915608	esp-idf/esp_hal_wdt/CMakeFiles/__idf_esp_hal_wdt.dir/wdt_hal_iram.c.obj	68c394f73789aece
+8609	9326	8009526966950853	esp-idf/esp_bootloader_format/CMakeFiles/__idf_esp_bootloader_format.dir/esp_bootloader_desc.c.obj	cdd594023fa6fa1e
+8765	9656	8009526968510887	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/esp32/spi_periph.c.obj	f82e5963ba16a520
+8756	9777	8009526968420845	esp-idf/esp_hal_clock/CMakeFiles/__idf_esp_hal_clock.dir/esp32/clk_tree_hal.c.obj	cf12aef4869db219
+8198	9915	8009526962841078	esp-idf/bootloader_support/libbootloader_support.a	f6aef28c006d00f0
+8895	10195	8009526969810860	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_hal.c.obj	b48f5a5714ac2b03
+9239	10478	8009526973250859	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_slave_hal_iram.c.obj	7af39275a50a74ae
+9656	10622	8009526977430854	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/gpio_hal.c.obj	8e7597ee4138b93a
+9787	10749	8009526978730854	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/esp32/rtc_io_periph.c.obj	4cf49d5e27b51e62
+9777	10875	8009526978630880	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/rtc_io_hal.c.obj	f484c19ec47a649a
+9167	10892	8009526972530874	esp-idf/esp_hal_gpspi/CMakeFiles/__idf_esp_hal_gpspi.dir/spi_hal_iram.c.obj	2b9691ee730a1888
+10234	10931	8009526983200880	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/esp32/sdm_periph.c.obj	b25185060c405f09
+10195	11042	8009526982810889	esp-idf/esp_hal_gpio/CMakeFiles/__idf_esp_hal_gpio.dir/sdm_hal.c.obj	ad1448a73e67e8af
+8532	11104	8009526966180860	esp-idf/micro-ecc/CMakeFiles/__idf_micro-ecc.dir/uECC_verify_antifault.c.obj	e64a8495a4d07618
+10327	11157	8009526984130872	esp-idf/hal/CMakeFiles/__idf_hal.dir/hal_utils.c.obj	7140340ef89410a7
+9915	11165	8009526980010900	esp-idf/esp_security/libesp_security.a	7cdae8ce3fd4a726
+10478	11376	8009526985640894	esp-idf/hal/CMakeFiles/__idf_hal.dir/efuse_hal.c.obj	7bc428b15414510c
+10623	11491	8009526987090863	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/efuse_hal.c.obj	863d79612a555922
+10875	11623	8009526989620837	esp-idf/hal/CMakeFiles/__idf_hal.dir/esp32/cache_hal_esp32.c.obj	d7d5857b7102bef
+11042	11647	8009526991280869	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/interrupts.c.obj	1a96db787f532
+11105	11755	8009526991910868	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/gpio_periph.c.obj	ec82973fe4cf0f80
+11157	11801	8009526992430874	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/dport_access.c.obj	d56875c1f2c96997
+10749	11816	8009526988350884	esp-idf/hal/CMakeFiles/__idf_hal.dir/mmu_hal.c.obj	cb8b8c0378b575c3
+11376	11870	8009526994620900	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/emac_periph.c.obj	f00958f336aa8e7f
+11165	11909	8009526992510849	esp-idf/esp_hal_security/libesp_hal_security.a	d1dc3c805130a118
+11755	11944	8009526999860854	project_elf_src_esp32.c	345be15e4a002e48
+11755	11944	8009526999860854	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/project_elf_src_esp32.c	345be15e4a002e48
+11502	11958	8009526995880849	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/power_supply_periph.c.obj	7ea8c86d3e309bf9
+11491	11960	8009526995770876	esp-idf/soc/CMakeFiles/__idf_soc.dir/esp32/mpi_periph.c.obj	cd86016ce1bb8813
+11647	11995	8009526997330870	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/eri.c.obj	a7827db28951c141
+11624	11999	8009527000700843	ld/bootloader.ld	bdc75b61a023c8e2
+11624	11999	8009527000700843	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/ld/bootloader.ld	bdc75b61a023c8e2
+11655	12126	8009526997410860	esp-idf/xtensa/CMakeFiles/__idf_xtensa.dir/xt_trax.c.obj	3af755d01477d601
+12008	12184	8009527000940861	CMakeFiles/bootloader.elf.dir/project_elf_src_esp32.c.obj	c2ad02efd05184b7
+11909	12194	8009526999950851	esp-idf/esp_hal_ana_conv/libesp_hal_ana_conv.a	f0746abde0c53346
+11999	12345	8009527000850854	esp-idf/main/CMakeFiles/__idf_main.dir/bootloader_start.c.obj	95e00312b6064bb0
+12194	12364	8009527002800850	esp-idf/esp_hal_i2s/libesp_hal_i2s.a	1d9979c10620323d
+12507	12676	8009527005930869	esp-idf/esp_hal_wdt/libesp_hal_wdt.a	75b49b567880b7d8
+12676	12871	8009527007620920	esp-idf/esp_hal_timg/libesp_hal_timg.a	d4228b7d3bb9c0dd
+12871	13037	8009527009570847	esp-idf/micro-ecc/libmicro-ecc.a	42df0f4b4c268fd1
+13037	13184	8009527011230860	esp-idf/esp_bootloader_format/libesp_bootloader_format.a	2836833748619cc0
+13184	13332	8009527012700829	esp-idf/spi_flash/libspi_flash.a	8b56a5a671c69517
+13332	13488	8009527014180833	esp-idf/esp_hal_clock/libesp_hal_clock.a	e7275f1c569e76f2
+13488	13688	8009527015740867	esp-idf/esp_hal_gpspi/libesp_hal_gpspi.a	103961cda5058008
+13688	13838	8009527017740849	esp-idf/esp_hal_pmu/libesp_hal_pmu.a	b8eb1f11a54b74d4
+13980	14143	8009527020670852	esp-idf/hal/libhal.a	b70cb7edf3b5fe50
+14143	14285	8009527022290824	esp-idf/soc/libsoc.a	c4e16c32917f4aa
+14285	14402	8009527023710851	esp-idf/xtensa/libxtensa.a	429a4b2358a93fc5
+14402	14537	8009527024880840	esp-idf/main/libmain.a	405077a36f6e7870
+14537	14866	8009527026230838	bootloader.elf	dd818c1646111af2
+14867	15297	8009527033770853	.bin_timestamp	f293e0d8f3c8337d
+14867	15297	8009527033770853	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/.bin_timestamp	f293e0d8f3c8337d
+15297	15443	8009527033830832	CMakeFiles/bootloader_check_size	21904b7bcc76985e
+15297	15443	8009527033830832	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/CMakeFiles/bootloader_check_size	21904b7bcc76985e
+44	8621	8009560037461591	build.ninja	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/xtensa/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_libc/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/soc/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/hal/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_gpio/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_usb/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_pmu/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_dma/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_gpspi/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_clock/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_mspi/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_blockdev/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/spi_flash/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_bootloader_format/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_app_format/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/partition_table/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esptool_py/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/micro-ecc/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_timg/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_wdt/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_uart/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_i2s/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_ana_conv/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_rtc_timer/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hal_security/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_security/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/bootloader_support/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/efuse/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_system/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hw_support/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hw_support/port/esp32/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_hw_support/lowpower/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_common/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_rom/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/log/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/bootloader/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/esp_stdio/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/freertos/cmake_install.cmake	fa7baf2f2d205e34
+44	8621	8009560037461591	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/esp-idf/main/cmake_install.cmake	fa7baf2f2d205e34
+59	179	8009560038571942	CMakeFiles/bootloader_check_size	21904b7bcc76985e
+59	179	8009560038571942	C:/Users/Dell/Desktop/Sistemas operativos/src/hello-world/build/bootloader/CMakeFiles/bootloader_check_size	21904b7bcc76985e
