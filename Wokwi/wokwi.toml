@@ -1,6 +1,0 @@
-[wokwi]
-version = 1
-firmware = "../src/hello-world/build/hello-world.elf"
-elf = "../shttps://codeshare.io/rc/hello-world/build/hello-world.elf"
-
-
