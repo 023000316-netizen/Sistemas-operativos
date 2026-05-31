@@ -1,5 +1,0 @@
-[wokwi]
-version = 1
-
-firmware = 'build/multitask.bin'
-elf = 'build/multitask.elf'
