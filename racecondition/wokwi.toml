@@ -1,0 +1,5 @@
+[wokwi]
+version = 1
+
+firmware = 'build/racecondition.bin'
+elf = 'build/racecondition.elf'

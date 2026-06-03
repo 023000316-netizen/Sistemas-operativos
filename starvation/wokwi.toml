@@ -1,5 +1,0 @@
-[wokwi]
-version = 1
-
-firmware = 'build/starvation.bin'
-elf = 'build/starvation.elf'
