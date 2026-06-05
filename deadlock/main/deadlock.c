@@ -56,7 +56,14 @@ static void TaskB(void *pvParameters)
     {
         printf("TaskB: Taking Mutex2\n");
 
-        xSemaphoreTake(g_mutex2, portMAX_DELAY);
+        if (xSemaphoreTake(g_mutex2, pdMS_TO_TICKS  (1000U) == pdTRUE)
+        {
+            xSemaphoreGive(g_mutex2);
+        }
+        else
+        {
+            printf("Timeout waiting for Mutex2\n")
+        }
 
         printf("TaskB: Mutex2 acquired\n");
 
@@ -69,6 +76,7 @@ static void TaskB(void *pvParameters)
         printf("TaskB: Mutex1 acquired\n");
 
         xSemaphoreGive(g_mutex1);
+        
         xSemaphoreGive(g_mutex2);
 
         vTaskDelay(pdMS_TO_TICKS(100U));
