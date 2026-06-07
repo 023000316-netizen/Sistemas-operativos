@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/deadlock.bin"
+elf = "build/deadlock.elf"
