@@ -1,9 +1,6 @@
 /**
  * @file deadlock-demo.c
- * @brief Simple deadlock demonstration using FreeRTOS mutexes.
- *
- * WARNING:
- * This code intentionally creates a deadlock for educational purposes.
+ * @brief Deadlock prevention example using FreeRTOS mutexes.
  */
 
 #include <stdio.h>
@@ -34,11 +31,17 @@ static void TaskA(void *pvParameters)
 
         printf("TaskA: Waiting for Mutex2\n");
 
-        xSemaphoreTake(g_mutex2, portMAX_DELAY);
+        if (xSemaphoreTake(g_mutex2, pdMS_TO_TICKS(1000U)) == pdTRUE)
+        {
+            printf("TaskA: Mutex2 acquired\n");
 
-        printf("TaskA: Mutex2 acquired\n");
+            xSemaphoreGive(g_mutex2);
+        }
+        else
+        {
+            printf("TaskA: Timeout waiting for Mutex2\n");
+        }
 
-        xSemaphoreGive(g_mutex2);
         xSemaphoreGive(g_mutex1);
 
         vTaskDelay(pdMS_TO_TICKS(100U));
@@ -56,14 +59,7 @@ static void TaskB(void *pvParameters)
     {
         printf("TaskB: Taking Mutex2\n");
 
-        if (xSemaphoreTake(g_mutex2, pdMS_TO_TICKS  (1000U) == pdTRUE)
-        {
-            xSemaphoreGive(g_mutex2);
-        }
-        else
-        {
-            printf("Timeout waiting for Mutex2\n")
-        }
+        xSemaphoreTake(g_mutex2, portMAX_DELAY);
 
         printf("TaskB: Mutex2 acquired\n");
 
@@ -71,12 +67,17 @@ static void TaskB(void *pvParameters)
 
         printf("TaskB: Waiting for Mutex1\n");
 
-        xSemaphoreTake(g_mutex1, portMAX_DELAY);
+        if (xSemaphoreTake(g_mutex1, pdMS_TO_TICKS(1000U)) == pdTRUE)
+        {
+            printf("TaskB: Mutex1 acquired\n");
 
-        printf("TaskB: Mutex1 acquired\n");
+            xSemaphoreGive(g_mutex1);
+        }
+        else
+        {
+            printf("TaskB: Timeout waiting for Mutex1\n");
+        }
 
-        xSemaphoreGive(g_mutex1);
-        
         xSemaphoreGive(g_mutex2);
 
         vTaskDelay(pdMS_TO_TICKS(100U));
